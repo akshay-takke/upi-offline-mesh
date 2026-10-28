@@ -9,5 +9,4 @@ class UpiOfflineMeshApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
